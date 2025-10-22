@@ -15,7 +15,7 @@ import pandas as pd
 # --------------------------------------------
 st.set_page_config(page_title="HR Analytics Assistant", layout="wide")
 # Display a logo or title image
-st.image("assets/Image.jpg", width=100)  # Path to your JPG image
+st.image("assets/Image.png", width=100)  # Path to your JPG image
 st.title("HR Analytics Assistant")
 st.caption("Ask about your HR data — headcount, attrition, salary, engagement, diversity, etc.")
 
